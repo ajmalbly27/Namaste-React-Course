@@ -114,14 +114,16 @@ Example emmet abbreviations: !, html:5 etc.
 - **Control:** You call the library’s functions when needed, giving you more control over the flow of your application.
 - **Scope:** Focused on specific tasks (e.g., DOM manipulation, data formatting).
 - **Flexibility:** More flexible; you can integrate it into your code as you see fit.
-  Example: jQuery, Lodash.
+
+Example: jQuery, Lodash.
 
 ### Framework:
 
 - **Control:** The framework controls the flow of your application; it calls your code.
 - **Scope:** Provides a full structure and set of tools for building an application.
 - **Flexibility:** Less flexible; you must follow the framework’s conventions and structure.
-  Example: React, Angular.
+
+Example: React, Angular.
 
 In summary, a library offers more freedom and is used for specific functionalities, while a framework provides a complete structure and dictates how you build your application.
 
@@ -334,7 +336,6 @@ By using the appropriate version at the correct stage of your project, you can e
 - **Key Points:**
   - The script is fetched asynchronously and executed as soon as it’s available.
   - Multiple async scripts may execute in any order relative to each other.
-  -
 
 ### `defer`
 
