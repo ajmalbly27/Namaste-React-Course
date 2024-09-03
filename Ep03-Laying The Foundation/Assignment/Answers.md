@@ -271,7 +271,7 @@ The `type` attribute in the `<script>` tag specifies the scripting language of t
 
 The `type` attribute, while not always necessary for basic JavaScript, remains a valuable tool for specifying the context in which scripts should be interpreted or processed, particularly in complex or modern web applications.
 
-## Q4: {TitleComponent} vs {<TitleComponent/>} vs {<TitleComponent></TitleComponent>} in JSX
+## Q4: `{TitleComponent}` vs `{<TitleComponent/>}` vs `{<TitleComponent></TitleComponent>}` in `JSX`
 
 In JSX, the three different ways of using components—`{TitleComponent}`, `{<TitleComponent />}`, and `{<TitleComponent></TitleComponent>}`—have distinct meanings and uses. Here's a breakdown of each:
 
