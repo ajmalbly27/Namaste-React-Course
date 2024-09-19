@@ -1,0 +1,31 @@
+{
+  "name": "food-ordering-app",
+  "version": "1.0.0",
+  "description": "A food ordering app by Mohd Ajmal Raza",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajmalbly27/food-ordering-app"
+  },
+  "keywords": [],
+  "author": "Ajmal Raza",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.47",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.12"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "browserslist": [
+    "last two versions"
+  ]
+}
