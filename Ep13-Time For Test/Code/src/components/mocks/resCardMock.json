@@ -1,0 +1,109 @@
+{
+    "card": {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+                "id": "18973",
+                "name": "Nandhana Palace",
+                "city": "1",
+                "slugs": {
+                    "restaurant": "nandhana-palace-koramangala-koramangala",
+                    "city": "bangalore"
+                },
+                "cloudinaryImageId": "0387817e239462fcfb98a1f568fa1a76",
+                "address": "Koramangala, 7, Mahakavi Vemana Rd, Khb Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034",
+                "locality": "Koramangala",
+                "areaName": "Koramangala",
+                "costForTwo": "50000",
+                "costForTwoMessage": "₹500 FOR TWO",
+                "cuisines": [
+                    "Biryani",
+                    "Andhra",
+                    "South Indian",
+                    "North Indian"
+                ],
+                "avgRating": 4.3,
+                "feeDetails": {},
+                "avgRatingString": "4.3",
+                "totalRatingsString": "36K+",
+                "promoted": true,
+                "adTrackingId": "cid=18921293~p=0~adgrpid=18921293#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=18973~st=biryani~eid=195cf00e-1ed6-49e5-81ab-790f6f75c3df~srvts=1727252649836",
+                "sla": {
+                    "deliveryTime": 25,
+                    "minDeliveryTime": 25,
+                    "maxDeliveryTime": 30,
+                    "lastMileTravel": 0.6,
+                    "serviceability": "SERVICEABLE",
+                    "rainMode": "RAIN_MODE_NONE",
+                    "slaString": "25-30 MINS",
+                    "lastMileTravelString": "0.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "opened": true,
+                    "restaurantClosedMeta": {}
+                },
+                "badges": {
+                    "imageBadges": [
+                        {
+                            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Biryani.png",
+                            "description": "Delivery!"
+                        },
+                        {
+                            "imageId": "Rxawards/_CATEGORY-Biryani.png",
+                            "description": "Delivery!"
+                        }
+                    ]
+                },
+                "aggregatedDiscountInfoV3": {
+                    "header": "40% OFF",
+                    "subHeader": "UPTO ₹80"
+                },
+                "ratingSlab": "RATING_SLAB_5",
+                "orderabilityCommunication": {
+                    "title": {},
+                    "subTitle": {},
+                    "message": {},
+                    "customIcon": {}
+                },
+                "cartOrderabilityNudgeBanner": {
+                    "parameters": {},
+                    "presentation": {}
+                },
+                "externalRatings": {
+                    "aggregatedRating": {
+                        "rating": "4.3",
+                        "ratingCount": "8.0K+"
+                    },
+                    "source": "GOOGLE",
+                    "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                "featuredSectionInfo": {
+                    "featured": true,
+                    "sectionTitle": "Featured"
+                },
+                "campaignId": "18921293"
+            },
+            "analytics": {
+                "screenName": "explore",
+                "context": "{\"tid\":\"undefined\",\"grid\":\"6684c64d-0e00-4b8f-8fc3-fec54825ab06\",\"queryUniqueId\":\"30b92518-9086-a42b-8938-90eb3f317fe0\",\"query\":\"Biryani\",\"adTrackingId\":\"cid=18921293~p=0~adgrpid=18921293#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=18973~st=biryani~eid=195cf00e-1ed6-49e5-81ab-790f6f75c3df~srvts=1727252649836\"}",
+                "objectValue": "18973",
+                "impressionObjectName": "impression-restaurant-ad",
+                "clickObjectName": "click-restaurant-ad"
+            },
+            "ctaWithParams": {
+                "link": "swiggy://menu",
+                "type": "DEEPLINK",
+                "params": {
+                    "query": "Biryani",
+                    "sourceSessionId": "gb111200-273f-4a5f-b5c9-4db57b2486f8",
+                    "source": "SEARCH",
+                    "isSld": "false",
+                    "sourceRequestId": "a57f96225049fc2771245a0f799168d3",
+                    "restaurant_id": "18973"
+                }
+            }
+        }
+    }
+}
